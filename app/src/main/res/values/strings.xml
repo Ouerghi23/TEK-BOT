@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TEKUP Chatbot</string>
+    <string name="hint_message">Tapez votre message...</string>
+    <string name="send">Envoyer</string>
+</resources>
